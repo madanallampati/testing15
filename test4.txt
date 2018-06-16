@@ -1,2 +1,4 @@
 first file in rebase
 hi
+
+testing for the fourth file for the rebase
