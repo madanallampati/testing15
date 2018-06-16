@@ -1,2 +1,4 @@
 third file for the testing of the git
 revised of file test3 for the rebase
+
+testing of the rebase
